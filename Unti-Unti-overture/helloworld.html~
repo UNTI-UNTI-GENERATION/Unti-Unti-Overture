@@ -12,7 +12,7 @@
 		  <h1>Welcome to Unti-Unti-overture</h1>
           </div>
           <div id="MainVisual">
-          	  <img src="img/MainVisual.jpg">
+          	  <img href="img/MainVisual.jpg">
 	  </div> 
   </body>
 </html>

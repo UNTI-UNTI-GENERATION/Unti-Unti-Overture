@@ -1,0 +1,13 @@
+body{
+	font-family: 'Major Mono Display', monospace;
+}
+#header{
+	background-color:black;
+}
+#header h1{
+        font-size:40px;	
+	color:white;
+}
+#MainVisual{
+	width:100%;
+}
